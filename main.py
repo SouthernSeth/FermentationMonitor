@@ -12,8 +12,8 @@ from epd4in2_V2 import EPD_4in2
 # Configuration
 # ===========================
 
-SSID = "TheWifi"
-PASSWORD = "lakelife6234"
+SSID = "SSID"
+PASSWORD = "WifiPassword"
 HOSTNAME = "FermentationMonitor"
 TCP_PORT = 55000
 EPD_WIDTH = 400
